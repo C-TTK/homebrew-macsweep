@@ -1,9 +1,9 @@
 class Macsweep < Formula
   desc "Safe macOS disk cleanup CLI companion for MacSweep"
   homepage "https://macsweep.app"
-  url "https://releases.macsweep.app/macsweep-2.0.5.tar.gz"
-  version "2.0.5"
-  sha256 "6b4a9c43ae50780b16b78365ba6dd6ee996d290a4c1eda2ac21c4d96ed0eaf96"
+  url "https://releases.macsweep.app/macsweep-2.0.6.tar.gz"
+  version "2.0.6"
+  sha256 "9ceb6a08b1d33f3f92c71775ad08f7626abcdd6f9f258bfed310e213a23f3194"
   license "Proprietary"
 
   depends_on macos: :ventura
